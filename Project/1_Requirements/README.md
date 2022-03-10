@@ -22,8 +22,20 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 
 
 | ID | High Level Requirement |
+|----|------------------------|
+|HLR1|  It should lock the car|
+|HLR2| It should unlock the car|
+|HLR3|It should activate/deactivate the alarm|
+|HLE4| It should probvide light when pressed four times|
 
-|*--*|*----------------------*|
+## Low Level Requirements
+| ID | Low  Level Requirement |
+|----|------------------------|
+|LLR1|When locked,all the leds ON at same time|
+|LLR2| When unlocked,all the leds OFF at same time|
+|LLR3|When alarm activates/deactivates, all led on in clockwise manner|
+|LLR4|When approaches light,all the leds ONin anti-clockwise manner|
+
 
 # 4W's And 1H
 # WHAT
