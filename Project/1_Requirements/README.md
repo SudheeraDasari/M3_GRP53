@@ -11,6 +11,19 @@ Remote keyless entry (RKE) has captivated automobile buyers, as evidenced by the
 
 Remote keyless entry (RKE) is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock. Typically, the action is to press a button on a physical fob.Remote keyless entry, which is commonly used to protect vehicles from theft, can be contrasted with passive keyless entry (PKE), which does not require any action on the part of the end user. 
 
+## Identifying Features
+
+* It should lock the door when blue switch is ON that is when switch is pressed.
+* It should be unlock when switch presses two times.
+* It should activate/deactivate alarm when switch presses three times.
+* It should approach when switch is pressed four times.
+
+## High Level Requirements
+
+
+| ID | High Level Requirement |
+
+|*--*|*----------------------*|
 
 # 4W's And 1H
 # WHAT
