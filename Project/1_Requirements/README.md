@@ -36,6 +36,27 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 |LLR3|When alarm activates/deactivates, all led on in clockwise manner|
 |LLR4|When approaches light,all the leds ONin anti-clockwise manner|
 
+## SWOT ANALYSIS
+
+# Strength
+* Less human interaction.
+* Control the car remotely.
+* Avoiding the chance of thefts.
+
+# Weakness
+* Next command will be in processes after completion of previous command.
+
+# Oppurnities
+* This type of systems are mainly used for the cars.
+
+
+# Threats
+* The key fob doesnot work consistently.
+* There may be chance of hacking.
+
+
+
+
 
 # 4W's And 1H
 # WHAT
