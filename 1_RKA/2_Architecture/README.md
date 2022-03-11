@@ -6,4 +6,5 @@
 
 ## Low Level Behavioral Diagram
 
-![mod 32](https://user-images.githubusercontent.com/87614111/157810432-e83305ba-3451-4091-8d18-a5cf707dceb8.jpg)
+
+![mod 32 (1)](https://user-images.githubusercontent.com/87614111/157812013-8c2524c5-1053-46e1-8a2f-f3e8db2c9939.jpg)
