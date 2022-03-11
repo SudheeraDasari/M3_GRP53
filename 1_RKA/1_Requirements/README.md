@@ -38,6 +38,9 @@ Remote keyless entry (RKE) is an electronic access system that can be controlled
 
 ## SWOT ANALYSIS
 
+![image](https://user-images.githubusercontent.com/87614111/157808397-f4098f3f-7219-4400-b5c3-8add00c4ad96.png)
+
+
 # Strength
 * Less human interaction.
 * Control the car remotely.
