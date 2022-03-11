@@ -40,9 +40,11 @@ This is similar to RKE which is used for locking and unlocking but it is ubidire
 # Weakness
 * Next command will be in processes after completion of previous command.
 * There may be problem with locking and unlocking when the distance is beyond threshold.
-Oppurnities
-This type of systems are mainly used for the cars.
-Threats
-The key fob doesnot work consistently.
-There may be chance of hacking.
+
+# Oppurnities
+* This type of systems are mainly used for the cars.
+ 
+# Threats
+* The key fob doesnot work consistently.
+* There may be chance of hacking.
 
