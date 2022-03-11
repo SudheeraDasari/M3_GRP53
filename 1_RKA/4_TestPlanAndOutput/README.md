@@ -1,6 +1,6 @@
 High Level Test Plan
  
-  |    ID	   |  Description	    | Expected I/P	  |   Expected O/P      |	   Type of Test  |
+  |  Test  ID	   |  Description	    | Expected I/P	  |   Expected O/P      |	   Type of Test  |
   |----------|------------------|-----------------|---------------------|----------------|
   |          |                  |                 |                     |                |                |
   |  HP01    |  lock            |  Switch is pressed once  |   locks the door  |  Requirement   |
@@ -11,7 +11,7 @@ High Level Test Plan
   
 Low Level Test Plan
    
- |    ID	   |  Description	    | Expected I/P	  |   Expected O/P      |	   Type of Test  |
+ | Test ID	   |  Description	    | Expected I/P	  |   Expected O/P      |	   Type of Test  |
   |----------|------------------|-----------------|---------------------|----------------|
   |          |                  |                 |                     |                |                |
   |  LP01    |  lock            |  Switch is pressed once  |   All leds on at same time  |  Requirement   |
