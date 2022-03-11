@@ -31,6 +31,9 @@ This is similar to RKE which is used for locking and unlocking but it is ubidire
 
 ## SWOT ANALYSIS
 
+![image](https://user-images.githubusercontent.com/87614111/157808397-f4098f3f-7219-4400-b5c3-8add00c4ad96.png)
+
+
 # Strength
 * Less human interaction.
 * Control the car remotely by checking the status of window,battery,door.
