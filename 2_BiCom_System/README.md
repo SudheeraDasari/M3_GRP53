@@ -29,3 +29,20 @@ This is similar to RKE which is used for locking and unlocking but it is ubidire
 |LLR3|When it will show battery information, all led on in clockwise manner|
 |LLR4|When it shows the status of door,all the leds ON in anti-clockwise manner|
 
+## SWOT ANALYSIS
+
+# Strength
+* Less human interaction.
+* Control the car remotely by checking the status of window,battery,door.
+* Avoiding the chance of thefts.
+ 
+
+# Weakness
+* Next command will be in processes after completion of previous command.
+* There may be problem with locking and unlocking when the distance is beyond threshold.
+Oppurnities
+This type of systems are mainly used for the cars.
+Threats
+The key fob doesnot work consistently.
+There may be chance of hacking.
+
