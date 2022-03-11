@@ -5,5 +5,10 @@ This Project is an BiCom System,and is designed to remotely know the statuS of y
 
 This is similar to RKE which is used for locking and unlocking but it is ubidirectional whereas BiCom System operates in bidirectional which operates by radio waves in a particular frequency. The BiCom System functionality differs from RKE system.It is the extension of the undirectional RKE System.
 
+## Identifying Features
+* It will prints window status when user pressed button once.
+* It will show alarm status when user pressed button twice.
+* It will show car battery information when user presssed button three times.
+* It will show the status of Door when user pressed button four times
 
 
